@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/Nagamani24/ReusableBanners.react.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[remote "origi"]
+	url = https://github.com/Nagamani24/Reusable-Banners.react.git
+	fetch = +refs/heads/*:refs/remotes/origi/*
